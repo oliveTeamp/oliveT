@@ -41,9 +41,14 @@
 .banner2 .commet{margin-top: 5px;
                 color:black;}
 
-.banner2 .price{margin: 5px; color: gray; font-size: 15px; }
+.banner2 .price{margin: 5px; 
+                color: gray;   
+                font-size: 15px; }
 
-.banner2 .sale{margin: 5px; color: crimson; font-size:20px; font-weight: bold;}  
+.banner2 .sale{margin: 5px; 
+                color: crimson; 
+                font-size:20px; 
+                font-weight: bold;}  
 
 .banner2 .icon_flag .sale{border: 0 solid;
                         border-radius: 5px 5px 5px 5px;

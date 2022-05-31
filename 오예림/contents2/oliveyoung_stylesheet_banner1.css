@@ -16,11 +16,11 @@ a[href]{color: black;
         text-decoration: none;}
 
 .banner1 .button_num{position:relative;
-                    left: 482px;
-                    border: 0px solid black; 
-                    border-radius: 30px 30px 30px 30px;
-                    background-color: #efebe9;
-                    font-weight: bolder;}
+                left: 482px;
+                border: 0px solid black; 
+                border-radius: 30px 30px 30px 30px;
+                background-color: #efebe9;
+                font-weight: bolder;}
 .button_num:hover{background-color: black; color: white;}   
 
 .banner1 .mini1{display: flex;
