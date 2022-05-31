@@ -1,53 +1,53 @@
 
 /* <오직 올리브영에서만> */
 .banner1{display: flex;
-    justify-content: center;
-    flex-direction: column;
-    background-image: url(https://image.oliveyoung.co.kr/uploads/contents/main/00_Main_onlyone_BG.jpg)!important;
-    margin:0px;
-    padding:0px 210px 0px 210px;
-    width: fit-content;}
+        justify-content: center;
+        flex-direction: column;
+        background-image: url(https://image.oliveyoung.co.kr/uploads/contents/main/00_Main_onlyone_BG.jpg)!important;
+        margin:0px;
+        padding:0px 210px 0px 210px;
+        width: fit-content;}
 
 .banner1 .title{display: flex;
-            justify-content: center;
-            margin-top: 30px;}
+                justify-content: center;
+                margin-top: 30px;}
 
 a[href]{color: black;
-    text-decoration: none;}
+        text-decoration: none;}
 
 .banner1 .button_num{position:relative;
-            left: 482px;
-            border: 0px solid black; 
-            border-radius: 30px 30px 30px 30px;
-            background-color: #efebe9;
-            font-weight: bolder;}
+                    left: 482px;
+                    border: 0px solid black; 
+                    border-radius: 30px 30px 30px 30px;
+                    background-color: #efebe9;
+                    font-weight: bolder;}
 .button_num:hover{background-color: black; color: white;}   
 
 .banner1 .mini1{display: flex;
-            justify-content: space-around;
-            margin: 10px 100px 10px 100px;
-            padding: 80px 100px 80px 100px;
-            width: 1060px;
-            height: 200px;
-            background-color: white;}
+                justify-content: space-around;
+                margin: 10px 100px 10px 100px;
+                padding: 80px 100px 80px 100px;
+                width: 1060px;
+                height: 200px;
+                background-color: white;}
 
 .banner1 .img{display: inline;
-            width: 350px;
-            height: 250px;
-            position: relative;
-            bottom: 20px;}
+                width: 350px;
+                height: 250px;
+                position: relative;
+                bottom: 20px;}
 
 .banner1 .text{display: flex;
-            flex-direction: column;
-            justify-content: space-around;
-            text-align: center;
-            box-sizing: border-box;
-            border: 0px solid;
-            width: 190px;
-            height: 50px;
-            background-color: white;
-            font-size: 14px;
-            z-index: 1;
-            position: relative;
-            top: -50px;
-            left: 80px;}
+                flex-direction: column;
+                justify-content: space-around;
+                text-align: center;
+                box-sizing: border-box;
+                border: 0px solid;
+                width: 190px;
+                height: 50px;
+                background-color: white;
+                font-size: 14px;
+                z-index: 1;
+                position: relative;
+                top: -50px;
+                left: 80px;}
