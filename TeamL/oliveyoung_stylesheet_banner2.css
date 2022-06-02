@@ -5,7 +5,7 @@
         background-color: white;
         margin:0px auto;
         padding:0px 70px 0px 70px;
-        width: 1740px;
+        width: 1420px;
         height: 550px;}
 
 .banner2 .title{display: flex;
@@ -16,13 +16,13 @@
 .banner2 .mini2{display: flex;
         justify-content: center;
         flex-direction: row;
-        margin: 0px 260px;
+        margin: 0px 100px;
         padding: 10px 10px 10px 10px;
         width: 1200px;
         height: 350px;}
 
 .banner2 .button_num{position:relative;
-                left: 514px;
+                left: 616px;
                 border: 0px solid black; 
                 border-radius: 30px 30px 30px 30px;
                 background-color: #efebe9;
@@ -33,7 +33,7 @@
                         flex-direction: column;
                         text-align: center;
                         font-size: 14px;
-                        width: 100%;}
+                        width: 90%;}
 
 .banner2 .subject{margin-top: 10px;
                 color: darkslategrey; font-weight: bold;}
@@ -66,7 +66,7 @@
 
 .banner2 .button_next_left{position: relative;
                         top: 150px;
-                        left: 150px;
+                        left: 5px;
                         z-index: 2;
                         background-position: 0 0;
                         border: 1px solid black;
@@ -78,7 +78,7 @@
 
 .banner2 .button_next_right{position: relative;
                         bottom: 240px;
-                        left: 1560px;
+                        left: 1385px;
                         z-index: 2;
                         background-position: 0 0;
                         border: 1px solid black;
@@ -98,7 +98,7 @@
         position: relative;
         width: 50px; 
         height: 50px; 
-        top: -390px;
+        top: -370px;
         left: -100px;
         z-index:1;
         text-align: center;
@@ -106,24 +106,24 @@
 
 .icon_heart{background: ghostwhite;
         border: 1px solid gray; 
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
         margin:0 auto;
         padding: 10px 10px;
         position: relative;
-        top: -210px; 
-        left: 125px;
+        top: -205px; 
+        left: 115px;
         z-index: 1;}
 .icon_heart:hover{color: hotpink;}
 
 .icon_heart_error{background: ghostwhite;
                 border: 1px solid gray; 
-                width: 30px;
-                height: 30px;
+                width: 20px;
+                height: 20px;
                 margin:0 auto;
                 padding: 10px 10px;
                 position: relative;
-                top: -160px; 
-                left: 125px;
+                top: -155px; 
+                left: 120px;
                 z-index: 1;}
 .icon_heart_error:hover{color: hotpink;}

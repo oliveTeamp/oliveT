@@ -5,8 +5,8 @@
         flex-direction: column;
         background-color: white;
         margin:0px auto;
-        padding:0px 70px 0px 70px;
-        width: 1740px;
+        padding:0px ;
+        width: 1420px;
         height: 550px;}
         
 .banner3 .title{display: flex;
@@ -16,7 +16,7 @@
 
 .banner3 .button_next_left{position: relative;
                         top: 200px;
-                        left: 150px;
+                        left: 5px;
                         z-index: 2;
                         background-position: 0 0;
                         border: 1px solid black;
@@ -28,7 +28,7 @@
 
 .banner3 .button_next_right{position: relative;
                         bottom: 240px;
-                        left: 1560px;
+                        left: 1385px;
                         z-index: 2;
                         background-position: 0 0;
                         border: 1px solid black;
@@ -39,8 +39,8 @@
 .button_next_right:hover{background-color: #e1bee7; color: black;}
 
 .banner3 .mini3{ display: flex;
-                margin: 20px 260px;
-                padding: 10px 10px 10px 10px;
+                margin: 20px 100px;
+                padding: 10px 10p 10px 10px;
                 width: 1200px;
                 height: 350px;
                 justify-content: space-around;}
