@@ -1,13 +1,15 @@
 /* <Healty Life> */
 .banner3{display: flex;
         flex:1;
+        position: relative;
         justify-content: center;
         flex-direction: column;
         background-color: white;
         margin:0px auto;
         padding:0px ;
         width: 1420px;
-        height: 550px;}
+        height: 550px;
+        right: 195px;}
         
 .banner3 .title{display: flex;
                 justify-content: center;

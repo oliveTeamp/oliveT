@@ -56,40 +56,6 @@
           -webkit-font-smoothing: antialiased
       }
 
-      a,
-      address,
-      blockquote,
-      body,
-      dd,
-      div,
-      dl,
-      dt,
-      em,
-      fieldset,
-      form,
-      h1,
-      h2,
-      h3,
-      h4,
-      h5,
-      h6,
-      img,
-      input,
-      label,
-      li,
-      ol,
-      p,
-      pre,
-      select,
-      span,
-      strong,
-      textarea,
-      ul {
-          /*위치값 0으로 초기화*/
-          margin: 0;
-          padding: 0;
-          border: 0
-      }
 
       /*
         * {
@@ -228,3 +194,4 @@
           height: 0;
           text-indent: -9999px
       }
+      

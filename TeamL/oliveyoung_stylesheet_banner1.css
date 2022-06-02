@@ -6,12 +6,14 @@
 
 /* <오직 올리브영에서만> */
 .banner1{display: flex;
+        position: relative;
         justify-content: center;
         flex-direction: column;
         background-image: url(https://image.oliveyoung.co.kr/uploads/contents/main/00_Main_onlyone_BG.jpg)!important;
         margin:0px auto;
         padding:0px 205px 0px 205px;
-        width: 1010px;}
+        width: 100%;
+        right: 200px;}
 
 .banner1 .title{display: flex;
                 justify-content: center;
