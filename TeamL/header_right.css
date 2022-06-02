@@ -118,6 +118,7 @@
 .show3_list {
   display: none;
   flex-direction: column;
+  z-index: 10;
 }
 
 .show3.test .show3_list {
