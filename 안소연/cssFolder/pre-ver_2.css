@@ -1,6 +1,14 @@
       /* main full banner */
-      .main_full_banner,.banner_desc {
+
+      .main_full_banner{
+        width: 1420px;
+        height: 450px;
+        
+      }
+      .banner_desc {
         height: 370px;
+  
+        
        }
        /* banner_desc style */
         .banner_desc {
@@ -19,14 +27,12 @@
          letter-spacing: -0.05em;
          margin-bottom: 0;
          position: relative;
-         overflow: hidden;
        }
        /*  full banner mini font */
        span {
          color: #666;
          font-weight: 700;
          font-size: 20px;
- 
          
        }
        .banner_desc .bigtit {
@@ -51,10 +57,10 @@
          margin-top: 0px;
          position: relative;
          left: 320px;
-         bottom: 828px;
+         bottom: 824px;
          cursor: pointer;
          word-break: keep-all;
-         overflow: hidden;
+ 
        }
        
  
