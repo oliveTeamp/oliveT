@@ -1,8 +1,5 @@
      /*사이트 전체 영역 사이즈 조정*/
-     #Container,
-     #Footer,
-     #Header,
-     #Wrapper {
+     #Container {
          width: 100%;
          min-width: 1020px
      }
