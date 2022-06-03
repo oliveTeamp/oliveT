@@ -30,19 +30,7 @@
 
         }
 
-        .main_customer_box .notice_area .notice_cont>a {
-            /*  .main_customer_box .notice_area .notice_cont > a 자손*/
-            display: inline-block;
-            max-width: 430px;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-            color: #666;
-            line-height: 16px
-        }
-
-        /*--------------------------------------*/
-
+  
         /*---------------더보기----------------*/
         .main_customer_box .notice_area .more_view {
             position: absolute;

@@ -1,0 +1,941 @@
+         /*Footer*/
+
+         #Container.main_container~#Footer {
+            margin: 40px 0 0 !important
+        }
+
+        #Container.guide_container~#Footer {
+            margin-top: 0 !important
+        }
+
+        #Container.bgf6~#Footer {
+            margin-top: 0 !important
+        }
+
+        #Footer * {
+            letter-spacing: 0
+        }
+
+        #Footer .oneConts {
+            background: #f9f9f9;
+            border-bottom: 1px solid #ddd
+        }
+
+        #Footer .threeConts {
+            border-top: 1px solid #e5e5e5;
+            background: #f9f9f9
+        }
+
+        #Footer .fourConts .conts {
+            border-top: 1px solid #ddd;
+            text-align: center
+        }
+
+        #Footer .fourConts ol:after {
+            content: '';
+            display: block;
+            clear: both
+        }
+
+        #Footer .fourConts ol li {
+            display: inline-block;
+            color: #777;
+            font-size: 11px;
+            line-height: 53px
+        }
+
+        #Footer .fourConts ol li.ncsi {
+            margin-left: 28px
+        }
+
+        #Footer .fourConts ol li.isms:before {
+            content: '';
+            display: inline-block;
+            vertical-align: middle;
+            width: 26px;
+            height: 26px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/common/foot_isms_new.png") no-repeat 0 0;
+            margin: 0 7px 1px 0
+        }
+
+        #Footer .fourConts ol li.ncsi:before {
+            content: '';
+            display: inline-block;
+            vertical-align: middle;
+            width: 30px;
+            height: 20px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/common/foot_ncsi.png") no-repeat 0 0;
+            margin: 0 7px 2px 0
+        }
+
+        #Footer .fourConts ol li .bar:before {
+            content: '|';
+            display: inline-block;
+            margin: 0 5px;
+            color: #777;
+            font-size: 11px
+        }
+
+        #Footer .conts {
+            width: 1020px;
+            margin: 0 auto
+        }
+
+        #Footer .oneConts .conts {
+            position: relative;
+            height: 52px
+        }
+
+        #Footer .list-menu {
+            overflow: hidden
+        }
+
+        #Footer .list-menu li {
+            float: left;
+            height: 52px;
+            padding-top: 18px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/comm/bar_1x14.gif") no-repeat 0 50%
+        }
+
+        #Footer .list-menu li a {
+            display: block;
+            padding: 0 20px 0 21px;
+            color: #000;
+            font-size: 12px;
+            line-height: 16px
+        }
+
+        #Footer .list-menu li:first-child {
+            background: 0 0
+        }
+
+        #Footer .list-menu li:first-child>a {
+            padding-left: 0
+        }
+
+        #Footer .list-area {
+            overflow: hidden
+        }
+
+        #Footer .list-area>li {
+            float: left;
+            height: 175px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/comm/bar_1x115.gif") no-repeat 0 29px;
+            font-size: 0;
+            line-height: 0
+        }
+
+        #Footer .list-area li p {
+            color: #777;
+            font-size: 12px;
+            line-height: 20px
+        }
+
+        #Footer .list-area>li:nth-child(1) {
+            position: relative;
+            width: 509px;
+            background: 0 0
+        }
+
+        #Footer .list-area li:nth-child(1) .logo {
+            position: absolute;
+            top: 50%;
+            left: 0;
+            margin-top: -12px;
+            padding: 0;
+            font-size: 0;
+            line-height: 0
+        }
+
+        #Footer .list-area li:nth-child(1) .logo img {
+            width: 146px;
+            height: 24px
+        }
+
+        #Footer .list-area li:nth-child(1) h2 {
+            padding: 28px 0 3px 170px;
+            color: #000;
+            font-size: 12px;
+            line-height: 20px
+        }
+
+        #Footer .list-area li:nth-child(1) p {
+            padding: 0 0 0 170px
+        }
+
+        #Footer .list-area li:nth-child(1) p:nth-child(4) {
+            margin-left: 35px;
+            text-indent: -35px
+        }
+
+        #Footer .list-area li:nth-child(1) .link {
+            display: inline-block;
+            margin-left: 7px;
+            color: #333;
+            border-bottom: 1px solid #333;
+            line-height: 16px
+        }
+
+        #Footer .list-area li:nth-child(2) {
+            width: 256px
+        }
+
+        #Footer .list-area li:nth-child(2) .list-link {
+            padding: 26px 0 0 20px
+        }
+
+        #Footer .list-area li:nth-child(2) .list-link li {
+            font-size: 0;
+            line-height: 0
+        }
+
+        #Footer .list-area li:nth-child(2) .list-link li a {
+            display: inline-block;
+            color: #777;
+            font-size: 12px;
+            line-height: 21px;
+            vertical-align: top
+        }
+
+        #Footer .list-area li:nth-child(2) .list-link li:first-child a:last-child {
+            margin: 0 0 0 8px;
+            padding: 0 0 0 13px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/comm/bull_4x4.gif") no-repeat 0 9px
+        }
+
+        #Footer .list-area li:nth-child(2) .list-link li:nth-child(2) a {
+            font-weight: 700;
+            letter-spacing: -1px;
+            color: #333
+        }
+
+        #Footer .list-area li:nth-child(3) {
+            width: 255px
+        }
+
+        #Footer .list-area li:nth-child(3) h2 {
+            padding: 25px 0 0 20px;
+            color: #000;
+            font-size: 12px;
+            line-height: 18px
+        }
+
+        #Footer .list-area li:nth-child(3) p {
+            padding: 10px 0 0 20px;
+            color: #777;
+            font-size: 12px;
+            line-height: 18px
+        }
+
+        #Footer .list-area li:nth-child(3) p .link {
+            display: inline-block;
+            color: #333;
+            font-size: 12px;
+            line-height: 16px;
+            border-bottom: 1px solid #333
+        }
+
+        #Footer .threeConts .conts {
+            overflow: hidden;
+            height: 40px
+        }
+
+        #Footer .copyright {
+            float: left;
+            padding: 11px 0 0;
+            color: #888;
+            font-size: 11px;
+            line-height: 18px;
+            font-weight: 700
+        }
+
+        #Footer .sns {
+            overflow: hidden;
+            float: right;
+            padding: 9px 0 0
+        }
+
+        #Footer .sns h2 {
+            float: left;
+            margin-right: 4px;
+            color: #aaa;
+            font-size: 12px;
+            padding: 3px 0 0
+        }
+
+        #Footer .sns a {
+            float: left;
+            margin: 0 8px;
+            font-size: 0;
+            line-height: 0;
+            vertical-align: top
+        }
+
+        #Footer .sns a>img {
+            height: 22px
+        }
+
+        #Footer .sns a:last-child {
+            margin-right: 0
+        }
+
+        #Footer .subsidiary {
+            position: relative;
+            position: absolute;
+            top: 10px;
+            right: 0;
+            width: 235px;
+            height: 30px;
+            border-radius: 0;
+            font-size: 12px
+        }
+
+        #Footer .subsidiary .selected {
+            position: absolute;
+            top: -1px;
+            left: -1px;
+            width: 235px;
+            height: 30px;
+            padding: 0 0 0 10px;
+            border: 1px solid #e5e5e5;
+            background: #fff;
+            color: #777;
+            font-size: 12px;
+            text-align: left;
+            line-height: 16px
+        }
+
+        #Footer .subsidiary ul {
+            display: none;
+            overflow-y: auto;
+            position: absolute;
+            top: -200px;
+            width: 235px;
+            height: 200px;
+            border: 1px solid #e5e5e5;
+            background: #fff
+        }
+
+        #Footer .subsidiary ul li {
+            font-size: 0;
+            line-height: 0
+        }
+
+        #Footer .subsidiary ul li a {
+            padding: 0 0 0 10px;
+            color: #777;
+            font-size: 12px;
+            line-height: 18px
+        }
+
+        #Footer .sel_family_group {
+            position: absolute;
+            top: 10px;
+            right: 0;
+            width: 235px;
+            height: 30px;
+            border-radius: 0;
+            font-size: 12px
+        }
+
+        #Footer .sel_family_group * {
+            color: #777
+        }
+
+        #Footer .sel_family_group .sel_option {
+            display: block;
+            height: 30px;
+            padding: 0 10px;
+            line-height: 30px;
+            border: 1px solid #e5e5e5;
+            background: #fff url("https://www.oliveyoung.co.kr/pc-static-root/image/comm/ico_footer_arrow.png") no-repeat 95% 50%
+        }
+
+        #Footer .sel_family_group .sel_option_list {
+            overflow-y: auto;
+            height: 150px;
+            padding: 10px;
+            border-left: 1px solid #e5e5e5;
+            border-bottom: 1px solid #e5e5e5;
+            border-right: 1px solid #e5e5e5;
+            background: #fff
+        }
+
+        #Footer .sel_family_group .sel_option_list.hide {
+            display: none
+        }
+
+        #Footer .sel_family_group .sel_option_list dl {
+            margin-top: 10px
+        }
+
+        #Footer .sel_family_group .sel_option_list dl dt {
+            font-weight: 700
+        }
+
+        #Footer .sel_family_group .sel_option_list dl dd {
+            margin-top: 3px;
+            padding-left: 10px
+        }
+
+        #Footer .sel_family_group .sel_option_list dl:first-child {
+            margin-top: 0
+        }
+
+        .business .procedure li:last-child {
+            margin-bottom: 0;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_circle225x228.png") no-repeat 0 0
+        }
+
+        .business .revenue {
+            float: right;
+            width: 765px;
+            height: 545px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_business_01.gif") no-repeat 0 0
+        }
+
+        .cjAudit .page_main {
+            width: 100%;
+            padding-top: 322px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/cjaudit_01.jpg") no-repeat center 0
+        }
+
+        .cjAudit .page_main dl ol li span.bg:before {
+            display: block;
+            content: '';
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/cjaudit_02.png") no-repeat 0 0
+        }
+
+        .cjAudit .page_main dl ol li span.r0:before {
+            width: 51px;
+            height: 36px;
+            margin: 15px auto;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/cjaudit_02_1.png") no-repeat center 0
+        }
+
+        .cjAudit .page_main .btn a:after {
+            content: '';
+            display: inline-block;
+            width: 13px;
+            height: 20px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/cjaudit_02.png") no-repeat 0 0;
+            vertical-align: middle;
+            margin: 0 0 2px 6px
+        }
+
+        .cjAudit .page_main .go_help a {
+            width: 150px;
+            height: 28px;
+            display: inline-block;
+            line-height: 26px;
+            text-align: center;
+            margin-left: 10px;
+            color: #007e8b;
+            font-size: 15px;
+            border: 2px solid #007e8b;
+            background: #fff;
+            box-shadow: 3px 3px 10px #999;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/b_arr.png") no-repeat 125px center;
+            text-indent: -10px
+        }
+
+        .cjAudit .audit_tbl span.file .ButtonDelete {
+            margin: 0 0 0 8px;
+            width: 21px;
+            height: 21px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/cjaudit_03.png") no-repeat 0 0
+        }
+
+        .online-inquiry .board-write-2s span.file .ButtonDelete {
+            margin: 0 0 0 8px;
+            width: 21px;
+            height: 21px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/cjaudit_03.png") no-repeat 0 0
+        }
+
+        .brand-vision {
+            width: 100%;
+            margin: 70px 0 0;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_brand_vision.gif") repeat-x 0 0
+        }
+
+        .brand-txtus .ceo_info {
+            height: 728px;
+            text-align: center;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_ceo.png") no-repeat 25px 60px
+        }
+
+        .list-history {
+            overflow: hidden;
+            width: 1020px;
+            margin: 75px auto 0;
+            padding: 75px 0 0 60px;
+            border-top: 2px solid #e3e3e3;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_history_new.png") no-repeat 100% 75px
+        }
+
+        .brand-txtus .social_info:before {
+            position: absolute;
+            content: '';
+            left: 0;
+            width: 100%;
+            height: 369px;
+            margin-top: -40px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_social_01.png") no-repeat 50% -1px;
+            z-index: -1
+        }
+
+        .brand-txtus .company-social:before {
+            position: absolute;
+            content: '';
+            left: 0;
+            width: 100%;
+            height: 1008px;
+            background: #f8f8f8 url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_social_02.png") no-repeat 50% 0;
+            z-index: -1
+        }
+
+        .brand-txtus .company-social.type2:before {
+            height: 560px;
+            background: #fff url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_social_03.png") no-repeat 50% 0;
+            z-index: -1
+        }
+
+        .result-upgrowth {
+            width: 100%;
+            height: 672px;
+            margin: 75px 0 0;
+            background: #444 url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_upgrowth.gif") no-repeat center 0
+        }
+
+        .brand-brochure {
+            width: 100%;
+            height: 768px;
+            margin: 79px 0 0;
+            background: #fbfbfb url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_brochure.png") no-repeat center 0
+        }
+
+        .jobs-list.step1 {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_jobs_step01.png") no-repeat 0 0
+        }
+
+        .jobs-list.step2 {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/bg_jobs_step02.png") no-repeat 0 0
+        }
+
+        .personnel-area .personnel {
+            overflow: hidden;
+            float: left;
+            width: 500px;
+            height: 120px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/@bg_jobs_guide.gif") no-repeat 0 0
+        }
+
+        .termsOrder-area .disavowal {
+            height: 348px;
+            margin: 40px 0 0;
+            padding: 0 0 0 458px;
+            border-radius: 5px;
+            background: #f5f5f5 url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/img_disavowal.png") no-repeat 100px 68px
+        }
+
+        .error-page {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/@error_temporary.gif") no-repeat 170px 107px
+        }
+
+        .error-page.soldout {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/icon_soldout_pc.png") no-repeat 170px 107px
+        }
+
+        .error-temporary {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/@error_temporary.gif") no-repeat 170px 116px
+        }
+
+        .error-service {
+            width: 1020px;
+            margin: 0 auto;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/@error_service.png") no-repeat center 180px;
+            text-align: center
+        }
+
+        .error-page.mOnly {
+            background-image: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/@error_mobile_only.png")
+        }
+
+        .error-page.noProduct {
+            background-image: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/@error_no_product.png");
+            text-align: center
+        }
+
+        #Container.store_footer~#Footer {
+            margin-top: 0 !important
+        }
+
+        .ethical_cont {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/bg_wrap.gif") no-repeat center 290px;
+            width: 100%;
+            background-size: 2570px auto;
+            margin-bottom: -40px
+        }
+
+        .ethical_box .box_2 a.link_1 {
+            display: inline-block;
+            font-size: 13px;
+            color: #888;
+            margin-top: 10px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/btn_link.png") no-repeat right 5px;
+            padding-right: 20px;
+            background-size: 14px 14px
+        }
+
+        .ethical_box .box_2 a.link_2:after {
+            content: "";
+            display: block;
+            clear: both;
+            position: absolute;
+            top: 3px;
+            right: 0;
+            width: 18px;
+            height: 18px;
+            background-image: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/btn_down.png");
+            background-size: 18px 18px;
+            background-repeat: no-repeat;
+            background-position: 0 center
+        }
+
+        .ethical_box .box_2 a.link_2:hover:after {
+            background-image: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/btn_down_on.png")
+        }
+
+        .ethical_box .box_2 dl {
+            position: relative;
+            height: 160px;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/icon_policy.png") no-repeat;
+            background-size: 285px 160px;
+            padding-left: 300px;
+            margin-top: 20px
+        }
+
+        .ethical_box .box_2 .dw_box li a:after {
+            content: "";
+            display: block;
+            clear: both;
+            position: absolute;
+            top: 3px;
+            left: 40px;
+            width: 18px;
+            height: 18px;
+            background-image: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/btn_down.png");
+            background-size: 18px 18px;
+            background-repeat: no-repeat;
+            background-position: 0 center
+        }
+
+        
+        .ethical_box .box_2 .dw_box li a:hover:after {
+            background-image: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/btn_down_on.png")
+        }
+
+        .ethical_box .box_4 dd.rule_01 {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/icon_email.png") no-repeat;
+            background-size: 48px 49px;
+            padding-left: 63px;
+            margin-right: 50px
+        }
+
+        .ethical_box .box_4 dd.rule_02 {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/icon_website.png") no-repeat;
+            background-size: 48px 48px;
+            padding-left: 63px
+        }
+
+        .ethical_box .box_4 dd.rule_02 a {
+            display: inline-block;
+            margin-top: 10px;
+            font-size: 13px;
+            color: #888;
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/btn_link.png") no-repeat right 2px;
+            padding-right: 20px;
+            background-size: 14px 14px
+        }
+
+        .tab_wrap .tab-content td a.link_3:after {
+            content: "";
+            display: block;
+            clear: both;
+            position: absolute;
+            top: 3px;
+            right: 0;
+            width: 18px;
+            height: 18px;
+            background-image: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/btn_down.png");
+            background-size: 18px 18px;
+            background-repeat: no-repeat;
+            background-position: 0 center
+        }
+
+        
+        .tab_wrap .tab-content td a.link_3:hover:after {
+            background-image: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/ethics/btn_down_on.png")
+        }
+
+        .cs_cont {
+            background: url("https://www.oliveyoung.co.kr/pc-static-root/image/footer/management/bg_wrap2.gif") no-repeat center 100px;
+            width: 100%;
+            background-size: 2570px auto;
+            margin-bottom: -40px
+        }
+
+        #Footer.m2105 .list-area>li {
+            height: 195px
+        }
+
+        /*--------m2105---------------------------*/
+
+        .main_customer_box.m2105 .customer_area .tel_info li {
+            background: 0 0
+        }
+
+        .main_customer_box.m2105 .customer_area .tel_info li+li {
+            padding: 0;
+            margin-top: 10px
+        }
+
+        .main_customer_box.m2105 .customer_area .tel_info li:before {
+            display: none
+        }
+
+        .list-customer.onenone.m2105 ul li .conts li.question {
+            position: relative
+        }
+
+        .list-customer.onenone.m2105 ul li .conts li.question ul li.inquiry_type {
+            position: absolute;
+            top: 25px;
+            right: 30px;
+            font-size: 12px;
+            letter-spacing: -.04px;
+            font-weight: 500;
+            color: #888;
+            line-height: 23px;
+            padding: 0 8px;
+            word-spacing: 0;
+            border: solid 1px #888;
+            background-color: #fff;
+            border-radius: 11.5px
+        }
+
+        .m2105 .tag_list_wrap:before {
+            left: 104px
+        }
+
+        .m2105 .tag_list_wrap .tag_list_tit {
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: -.86px;
+            text-align: center;
+            color: #333;
+            padding: 0 10px 0 45px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            line-height: 68px;
+            width: 120px;
+            background: #f6f6f6;
+            z-index: 1
+        }
+
+        .m2105 .tag_list_wrap .tag_list_tit+.tag_list {
+            position: relative;
+            white-space: nowrap;
+            padding: 10px 0 15px;
+            width: calc(100% - 118px);
+            left: 86px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv {
+            display: flex;
+            height: 38px;
+            margin: 56px 0 35px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv.acOn {
+            margin: 56px 0 61px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs {
+            display: flex;
+            width: 800px;
+            height: 38px;
+            margin: 0
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li {
+            width: 33.33333%;
+            height: 38px;
+            float: none
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li.on {
+            z-index: 1
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li>button {
+            display: block;
+            width: 100%;
+            height: 36px;
+            line-height: 36px;
+            text-align: center;
+            color: #888;
+            box-sizing: content-box
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li.on>button {
+            color: #fff
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li.on .twoTabs {
+            display: flex;
+            width: 100%;
+            padding: 20px 0;
+            bottom: -61px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li .twoTabs li {
+            padding: 0;
+            background: 0 0
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li .twoTabs li+li {
+            padding-left: 24px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li .twoTabs li button {
+            color: #999;
+            font-weight: 400;
+            font-size: 14px;
+            letter-spacing: -.8px;
+            line-height: 20px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv>.comm2sTabs>li .twoTabs li.on button {
+            color: #333;
+            font-weight: 700
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv .topTen {
+            width: calc(100% - 800px);
+            line-height: 38px;
+            text-align: center
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv .topTen>a {
+            font-size: 14px;
+            font-weight: 500;
+            font-stretch: normal;
+            font-style: normal;
+            letter-spacing: -.82px;
+            text-align: center;
+            color: #f27370;
+            display: inline-block;
+            line-height: 38px;
+            padding: 0 8px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv .topTen>a:before {
+            content: "";
+            display: inline-block;
+            width: 24px;
+            height: 38px;
+            background: url(https://mqa.oliveyoung.co.kr/pc-static-root/image/comm/qa_top.png) no-repeat 0 5px/24px auto;
+            vertical-align: middle;
+            margin-right: 3px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv .topTen>a:after {
+            content: "";
+            display: inline-block;
+            width: 12px;
+            height: 38px;
+            background: url(https://mqa.oliveyoung.co.kr/pc-static-root/image/comm/rightBtn12.png) no-repeat 0 12px/12px auto;
+            vertical-align: middle;
+            margin-left: 3px
+        }
+
+        .m2105 #TabsOpenArea .commsTabDiv .topTen.on>a:after {
+            content: "";
+            display: inline-block;
+            width: 12px;
+            height: 38px;
+            background: url(https://mqa.oliveyoung.co.kr/pc-static-root/image/comm/bottomBtn12.png) no-repeat 0 12px/12px auto;
+            vertical-align: middle;
+            margin-left: 3px
+        }
+
+        .m2105 #TabsOpenArea .list-customer>ul>li {
+            position: relative
+        }
+
+        .m2105 #TabsOpenArea .list-customer ul li .stit,
+        .m2105 #TabsOpenArea .list-customer ul li .tit {
+            display: block;
+            margin-left: 0;
+            padding: 20px 0 20px 60px;
+            background: url(https://mqa.oliveyoung.co.kr/pc-static-root/image/comm/ico_faq14x15.png) no-repeat 18px 23px;
+            color: #222;
+            font-size: 14px;
+            line-height: 18px;
+            cursor: pointer
+        }
+
+        .m2105 #TabsOpenArea .tote .list-customer>ul {
+            counter-reset: list
+        }
+
+        .m2105 #TabsOpenArea .tote .list-customer>ul>li:before {
+            position: absolute;
+            top: 21px;
+            left: 18px;
+            width: 10px;
+            font-size: 15px;
+            font-weight: 600;
+            text-align: center;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #777;
+            content: "0" counter(list);
+            counter-increment: list
+        }
+
+        .m2105 #TabsOpenArea .tote .list-customer>ul>li:nth-child(n+10):before {
+            content: counter(list);
+            counter-increment: list
+        }
+
+        .m2105 #TabsOpenArea .tote .list-customer>ul>li .tit {
+            background: 0 0
+        }
+
+        .m2105 #TabsOpenArea .tote .list-customer>ul>li.topThree:before {
+            color: #f27370
+        }
+
+        .m2105 #TabsOpenArea .tagTabsCont {
+            display: none
+        }
+
+        .m2105 #TabsOpenArea .tagTabsCont.on {
+            display: block
+        }
+
+        .m2105 #TabsOpenArea .phone-banner .deposits {
+            background: url(https://mqa.oliveyoung.co.kr/pc-static-root/image/comm/icn-store.png) no-repeat 90% 50%/48px auto
+        }
+
+        .m2105 #TabsOpenArea .phone-banner .online {
+            background: url(https://mqa.oliveyoung.co.kr/pc-static-root/image/comm/icn-onlinemall.png) no-repeat 90% 50%/48px auto
+        }
+
+        #Footer.m2105 .list-area>li {
+            height: 195px
+        }
